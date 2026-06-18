@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui;
+}
+
+.App {
+  display: flex;
+  position: relative;
+  top: 200px;
+  flex-direction: column;
+  gap: 2rem;
+  min-height: 100vh;
+}

@@ -1,0 +1,19 @@
+.transactionHistory {
+  width: 40%;
+  border-collapse: collapse; /* hücreleri birleştirir */
+  text-align: center;
+  table-layout: fixed;
+  margin: 0 auto; /* tabloyu ortalar */
+}
+
+.transactionHistory th,
+.transactionHistory td {
+  border: 1px solid black; /* ızgara görünümü */
+  padding: 12px;
+}
+
+.transactionHistory th {
+  background-color: #2f2f2f; /* siyahımsı */
+  color: white;
+  font-weight: 600;
+}
