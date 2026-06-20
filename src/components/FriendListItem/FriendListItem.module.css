@@ -1,0 +1,21 @@
+.card {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 20px;
+  width: 150px;
+  text-align: center;
+}
+
+.name {
+  font-size: 28px;
+}
+
+.online {
+  color: green;
+  font-size: 24px;
+}
+
+.offline {
+  color: red;
+  font-size: 24px;
+}
